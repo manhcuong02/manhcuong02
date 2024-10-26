@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nguyen Manh Cuong</h1>
 <h3 align="center">I am an undergraduate student majoring in AI and Computer Vision from Vietnam</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manhcuong02&label=Profile%20views&color=0e75b6&style=flat" alt="manhcuong02" /> </p>
+
+- 🎓 I am currently pursuing a degree in Robotics Engineering at VNU - University of Engineering and Technology.
 
 - 🌱 I’m currently learning **AI - LLMs**
 

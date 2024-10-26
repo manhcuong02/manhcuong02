@@ -10,9 +10,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/manhcuong02/](https://github.com/manhcuong02/)
 
-- 📫 How to reach me **manhcuong17072002@gmail.com**
+- 📫 How to reach me? Please contact **manhcuong17072002@gmail.com**
 
-- ⚡ Fun fact **I think I enjoy playing games and listening to music in my free time.**
+- ⚡ Fun fact: **To unwind, I like to play games, listen to music, and take some spontaneous pictures.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

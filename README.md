@@ -14,7 +14,6 @@
 
 - ⚡ Fun fact: **To unwind, I like to play games, listen to music, and take some spontaneous pictures.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 

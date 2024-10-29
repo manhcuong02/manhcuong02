@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manhcuong02&label=Profile%20views&color=0e75b6&style=flat" alt="manhcuong02" /> </p>
 
-- 🎓 I am currently pursuing a degree in Robotics Engineering at VNU - University of Engineering and Technology.
+- 🎓 I am currently studying at VNU University of Engineering and Technology.
 
 - 🌱 I’m currently learning **AI - LLMs**
 

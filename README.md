@@ -6,7 +6,7 @@
 
 - 🎓 I am currently studying at VNU University of Engineering and Technology.
 
-- 🌱 I’m currently learning **AI - LLMs**
+- 🌱 I’m currently learning **AI - LLMs** and TTS for Vietnamese 
 
 - 👨‍💻 All of my projects are available at [https://github.com/manhcuong02/](https://github.com/manhcuong02/)
 

@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/manhcuong02/](https://github.com/manhcuong02/)
 
-- 💼: **Projects and Experience:**
+- 💼 **Projects and Experience:**
 
 **1. Computer Vision:**
 

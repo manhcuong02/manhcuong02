@@ -14,10 +14,10 @@
 
 **1. Computer Vision:**
 
-*   **Facial Recognition:** Achieved 99.6% accuracy on the CASIA-FaceV5 dataset (specifically on a subset of 2500 images from 500 distinct Chinese individuals), demonstrating expertise in facial recognition within Asian demographics.
-*   **eKYC:** Developed solutions for extracting information from identification documents and performing electronic identity verification.
+*   **Facial Recognition:** Achieved 99.6% accuracy on the CASIA-FaceV5 dataset (specifically on a subset of 2500 images from 500 distinct Chinese individuals), demonstrating expertise in facial recognition within Asian demographics (This project was undertaken as part of my academic studies and was not developed within a professional setting)
+*   **eKYC:** Developed solutions for extracting information from identification documents and performing electronic identity verification (This project was undertaken as part of my academic studies and was not developed within a professional setting)
 *   **OCR:** Implemented Optical Character Recognition systems for extracting data from documents, images, and other media.
-*   **Other Projects:** Experience in vehicle detection, traffic flow analysis, and other related computer vision tasks (not in-depth).
+*   **Other Projects:** Experience in vehicle detection, traffic flow analysis, and other related computer vision tasks (not in-depth and these project was undertaken as part of my academic studies and was not developed within a professional setting).
 
 **2. Large Language Models (LLMs):**
 

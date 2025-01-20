@@ -10,27 +10,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/manhcuong02/](https://github.com/manhcuong02/)
 
-- 💼 **Projects and Experience:**
-
-**1. Computer Vision:**
-
-*   **Facial Recognition:** Achieved 99.6% accuracy on the CASIA-FaceV5 dataset (specifically on a subset of 2500 images from 500 distinct Chinese individuals), demonstrating expertise in facial recognition within Asian demographics (This project was undertaken as part of my academic studies and was not developed within a professional setting)
-*   **eKYC:** Developed solutions for extracting information from identification documents and performing electronic identity verification (This project was undertaken as part of my academic studies and was not developed within a professional setting)
-*   **OCR:** Implemented Optical Character Recognition systems for extracting data from documents, images, and other media.
-*   **Other Projects:** Experience in vehicle detection, traffic flow analysis, and other related computer vision tasks (not in-depth and these project was undertaken as part of my academic studies and was not developed within a professional setting).
-
-**2. Large Language Models (LLMs):**
-
-*   **Prompt Engineering:**  Experience in crafting and refining prompts to optimize performance for integrated LLM applications.
-*   **OCR:** Leveraged LLMs for information extraction from various file types, including images and documents.
-*   **RAG, Chatbots, AI Agents:** Currently exploring and learning these technologies for future projects (in the future learning).
-
-**3. Text-to-Speech (TTS):**
-
-*   **Low-Resource Vietnamese TTS:** Successfully developed a Vietnamese TTS model using a limited dataset (1-2 hours of audio), achieving relatively good quality dependent on the quality of the input voice data.
-*   **MeloTTS for Vietnamese:** Successfully adapted and developed the high-quality MeloTTS model for the Vietnamese language.
-*   **Bilingual English-Vietnamese TTS:** Currently researching and developing the first bilingual English-Vietnamese TTS model in Vietnam (aiming for authentic English pronunciation instead of phonetic transliteration into Vietnamese).
-
 - 📫 How to reach me? Please contact **manhcuong17072002@gmail.com**
 
 - ⚡ Fun fact: **To unwind, I like to play games, listen to music, and take some spontaneous pictures.**
@@ -45,4 +24,25 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manhcuong02&show_icons=true&locale=en" alt="manhcuong02" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manhcuong02&" alt="manhcuong02" /></p>
+## **💼 Projects and Experience**
+**1. Computer Vision:**
+
+*   **Facial Recognition:** Achieved 99.6% accuracy on the CASIA-FaceV5 dataset (specifically on a subset of 2500 images from 500 distinct Chinese individuals), demonstrating expertise in facial recognition within Asian demographics (This project was undertaken as part of my academic studies and was not developed within a professional setting)
+*   **eKYC:** Developed solutions for extracting information from identification documents and performing electronic identity verification (This project was undertaken as part of my academic studies and was not developed within a professional setting)
+*   **OCR:** Implemented Optical Character Recognition systems for extracting data from documents, images, and other media.
+*   **Captcha decoding:** Developed a captcha decoding solution achieving an average accuracy of 98% and inference speed under 20ms on CPU, supporting over 30 distinct captcha providers.
+*   **Other Projects:** Experience in vehicle detection, traffic flow analysis, and other related computer vision tasks (not in-depth and these project was undertaken as part of my academic studies and was not developed within a professional setting).
+
+**2. Large Language Models (LLMs):**
+
+*   **Prompt Engineering:**  Experience in crafting and refining prompts to optimize performance for integrated LLM applications.
+*   **OCR:** Leveraged LLMs for information extraction from various file types, including images and documents.
+*   **RAG, Chatbots, AI Agents:** Currently exploring and learning these technologies for future projects (in the future learning).
+
+**3. Text-to-Speech (TTS):**
+
+*   **Low-Resource Vietnamese TTS:** Successfully developed a Vietnamese TTS model using a limited dataset (1-2 hours of audio), achieving relatively good quality dependent on the quality of the input voice data.
+*   **MeloTTS for Vietnamese:** Successfully adapted and developed the high-quality MeloTTS model for the Vietnamese language.
+*   **Bilingual English-Vietnamese TTS:** Currently researching and developing the first bilingual English-Vietnamese TTS model in Vietnam (aiming for authentic English pronunciation instead of phonetic transliteration into Vietnamese).
+
+If you are interested in collaboration opportunities or have any inquiries, please feel free to contact me via the email provided above. Thank you

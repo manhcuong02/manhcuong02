@@ -23,7 +23,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manhcuong02&show_icons=true&locale=en&layout=compact" alt="manhcuong02" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manhcuong02&show_icons=true&locale=en" alt="manhcuong02" /></p>
-
+<!-----------------
 ## **💼 Projects and Experience**
 **1. Computer Vision:**
 
@@ -46,3 +46,4 @@
 *   **Bilingual English-Vietnamese TTS:** Currently researching and developing the first bilingual English-Vietnamese TTS model in Vietnam (aiming for authentic English pronunciation instead of phonetic transliteration into Vietnamese).
 
 If you are interested in collaboration opportunities or have any inquiries, please feel free to contact me via the email provided above. Thank you
+----------->

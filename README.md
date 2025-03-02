@@ -6,13 +6,15 @@
 
 - 🎓 I am currently studying at VNU University of Engineering and Technology.
 
-- 🌱 I’m currently learning **AI - LLMs** and TTS for Vietnamese 
+- 🌱 I’m currently learning **AI - LLMs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/manhcuong02/](https://github.com/manhcuong02/)
 
 - 📫 How to reach me? Please contact **manhcuong17072002@gmail.com**
 
 - ⚡ Fun fact: **To unwind, I like to play games, listen to music, and take some spontaneous pictures.**
+
+- 🏷️🛒 I have successfully developed a Vietnamese Text-to-Speech (TTS) model and am now offering it for sale. If you're interested or would like more information, feel free to contact me.
 
 <p align="left">
 </p>

@@ -14,7 +14,9 @@
 
 - ⚡ Fun fact: **To unwind, I like to play games, listen to music, and take some spontaneous pictures.**
 
+<!-----------------
 - 🏷️🛒 I have successfully developed a Vietnamese Text-to-Speech (TTS) model and am now offering it for sale. If you're interested or would like more information, feel free to contact me.
+----------->
 
 <p align="left">
 </p>
